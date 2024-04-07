@@ -1,0 +1,32 @@
+body {
+  background-color: #272727;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #e6e6e6;
+}
+
+.header {
+  color: #4a4a4a;
+}
+
+.difficultyBtn {
+  background-color: #4062bb;
+}
+
+.quizImg {
+  max-width: 30vw;
+}
+
+.countryImg {
+  max-width: 30vw;
+}
+
+.resultList {
+  font-size: large;
+  list-style-type: none;
+  color: #5bc0de;
+}
+
+.footer {
+  text-align: center;
+  font-size: x-small;
+}
